@@ -1,1 +1,5 @@
-# Big-Data
+This project explores two distinct data solutions tailored for healthcare and finance domains.
+
+For the healthcare use case, a data warehouse has been designed to manage hospital operations and patient information. The schema consists of three interconnected tables: hospitals, which stores hospital details including city and ratings; doctors, which captures information about medical professionals and their specializations; and patients, which records patient data such as age, admission date, and assigned doctor. This structured setup supports complex queries and insightful analysis—such as tracking patient-doctor relationships, evaluating hospital performance, and analyzing medical staff distribution.
+
+In the financial services context, ABC Investment Bank Ltd aims to leverage large volumes of data from social media and other external sources to develop trading and portfolio strategies. Due to the scale and variety of data involved, the implementation of a data lake is proposed. A data lake provides a centralized and scalable solution capable of storing both structured and unstructured data, facilitating flexible data processing and real-time analytics for strategic decision-making.
